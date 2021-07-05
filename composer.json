@@ -1,0 +1,17 @@
+{
+  "name": "dmdrozd/laravel-changeless-fields",
+  "description": "Laravel Changeless fields",
+  "require": {
+    "php": "^7.1.3",
+    "laravel/framework": "v8.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dmdrozd\\ChangelessFields\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
