@@ -37,4 +37,4 @@ SomeModel::query()
 // code
 ```
 
-trying to update changeless field throw `TryingToUpdateChangelessFieldsException`
+trying to update changeless field throw `UpdateChangelessFieldsException`
